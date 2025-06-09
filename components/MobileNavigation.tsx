@@ -40,8 +40,8 @@ const MobileNavigation = ({
       <Image
         src="/assets/icons/light Syncly logo.svg"
         alt="logo"
-        width={120}
-        height={52}
+        width={150}
+        height={2}
         className="h-auto"
       />
 
