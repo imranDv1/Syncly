@@ -38,7 +38,7 @@ const MobileNavigation = ({
   return (
     <header className="mobile-header">
       <Image
-        src="/assets/icons/logo-full-brand.svg"
+        src="/assets/icons/light Syncly logo.svg"
         alt="logo"
         width={120}
         height={52}
